@@ -1,0 +1,58 @@
+#logo {
+    width: 50;
+}
+
+.mainDiv {
+    padding: 10px;
+    margin-top: 10px;
+    border: 3px solid whitesmoke;
+    background-color: cadetblue;
+}
+
+.footerDiv img {
+    width: 80px;
+}
+
+.mainDiv label {
+    background: whitesmoke;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px tomato;
+}
+
+#webcam,
+#snapshot {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px tomato;
+}
+
+#copyrightDiv {
+    position: fixed;
+    color: darkgoldenrod;
+    background: honeydew;
+    bottom: 0px;
+    width: 100%;
+    height: 15%;
+    line-height: 12;
+    text-align: center;
+}
+
+#copyrightLabel {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footerDiv h4 {
+    background: cornsilk;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px gainsboro;
+}
+
+.footerDiv {
+    margin-bottom: 50px;
+}
